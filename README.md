@@ -12,7 +12,7 @@ Il est, en outre, très facile d'étendre les fonctionnalités existantes, comme
 
 Concrètement, voilà ce qu'on peut faire avec Python :
 
-    - de petits programmes très simples, appelés scripts, chargés d'une mission très précise sur votre ordinateur ;
+-- de petits programmes très simples, appelés scripts, chargés d'une mission très précise sur votre ordinateur ;
 
     - des programmes complets, comme des jeux, des suites bureautiques, des logiciels multimédias, des clients de messagerie…
 
