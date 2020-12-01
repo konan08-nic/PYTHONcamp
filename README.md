@@ -47,6 +47,40 @@ Lors de la création de la Python Software Foundation, en 2001, et durant les an
 
 Quand un langage de programmation est mis à jour, les développeurs se gardent bien de supprimer ou de trop modifier d'anciennes fonctionnalités. L'intérêt est qu'un programme qui fonctionne sous une certaine version marchera toujours avec la nouvelle version en date. Cependant, la Python Software Foundation, observant un bon nombre de fonctionnalités obsolètes, mises en œuvre plusieurs fois… a décidé de nettoyer tout le projet. Un programme qui tourne à la perfection sous Python 2.x devra donc être mis à jour un minimum pour fonctionner de nouveau sous Python 3. C'est pourquoi je vais vous conseiller ultérieurement de télécharger et d'installer la dernière version en date de Python. Je m'attarderai en effet sur les fonctionnalités de Python 3 et certaines d'entre elles ne seront pas accessibles (ou pas sous le même nom) dans les anciennes versions.
 
+## Installer Python
+
+L'installation de Python est un jeu d'enfant, aussi bien sous Windows que sous les systèmes Unix. Quel que soit votre système d'exploitation, vous devez vous rendre sur [le site officiel de Python](https://www.python.org/downloads/).
+
+## Lancer Python
+
+### Sous Windows
+
+Voici les différents moyens d'accéder à la ligne de commande Python que nous allons tout particulièrement étudier dans ce cours.
+Vous avez plusieurs façons d'accéder à la ligne de commande Python, la plus évidente consistant à passer par les menus **Démarrer** >> **Tous les programmes** >> **Python 3.4** >> **Python (Command Line)**. Si tout se passe bien, vous devriez obtenir une magnifique console (figure suivante). Il se peut que les informations affichées dans la vôtre ne soient pas les mêmes, mais ne vous en inquiétez pas.
+
+![Ligne de commande de Windows](https://user.oc-static.com/files/425001_426000/425782.jpg)
+
+Vous pouvez également passer par la ligne de commande Windows ; à cause des raccourcis, je privilégie en général cette méthode, mais c'est une question de goût.
+Allez dans le menu **Démarrer**, puis cliquez sur **Exécuter**. Dans la fenêtre qui s'affiche, tapez simplement « **py** » et la ligne de commande **Python** devrait s'afficher de nouveau. Sachez que vous pouvez directement vous rendre dans **Exécuter** en tapant le raccourci **Windows + R**.
+
+Pour fermer l'interpréteur de commandes Python, vous pouvez taper « **exit()** » puis appuyer sur la touche **Entrée**.
+
+### Sous Linux
+
+Lorsque vous l'avez installé sur votre système, Python a créé un lien vers l'interpréteur sous la forme python3.X (le X étant le numéro de la version installée).
+
+Si, par exemple, vous avez installé Python 3.4, vous pouvez y accéder grâce à la commande
+
+    $ python3
+    Python 3.4.0 (default, Apr 23 2014, 05:55:41)
+    [GCC 4.4.5] on linux
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>>
+
+Pour fermer la ligne de commande Python, n'utilisez pas **CTRL** + **C** mais **CTRL** + **D**.
+
+
+
 ## Source
 
 [Lien du cours sur openclassrooms.com](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
