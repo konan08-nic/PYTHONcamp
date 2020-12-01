@@ -12,20 +12,20 @@ Il est, en outre, très facile d'étendre les fonctionnalités existantes, comme
 
 Concrètement, voilà ce qu'on peut faire avec Python :
 
--- de petits programmes très simples, appelés scripts, chargés d'une mission très précise sur votre ordinateur ;
+   * de petits programmes très simples, appelés scripts, chargés d'une mission très précise sur votre ordinateur ;
 
-    - des programmes complets, comme des jeux, des suites bureautiques, des logiciels multimédias, des clients de messagerie…
+   * des programmes complets, comme des jeux, des suites bureautiques, des logiciels multimédias, des clients de messagerie…
 
-    - des projets très complexes, comme des progiciels (ensemble de plusieurs logiciels pouvant fonctionner ensemble, principalement utilisés dans le monde professionnel).
+   * des projets très complexes, comme des progiciels (ensemble de plusieurs logiciels pouvant fonctionner ensemble, principalement utilisés dans le monde professionnel).
 
 Voici quelques-unes des fonctionnalités offertes par Python et ses bibliothèques :
 
-    - créer des interfaces graphiques ;
+   * créer des interfaces graphiques ;
 
-    - faire circuler des informations au travers d'un réseau ;
+   * faire circuler des informations au travers d'un réseau ;
 
-    - dialoguer d'une façon avancée avec votre système d'exploitation ;
+   * dialoguer d'une façon avancée avec votre système d'exploitation ;
 
-    - et j'en passe…
+   * et j'en passe…
 
 Bien entendu, vous n'allez pas apprendre à faire tout cela en quelques minutes. Mais ce cours vous donnera des bases suffisamment larges pour développer des projets qui pourront devenir, par la suite, assez importants.
