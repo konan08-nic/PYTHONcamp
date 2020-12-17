@@ -4,7 +4,7 @@
 
 > **Note**: Les mots avec **'*'** ne sont plus des mots-clés en Python 3 mais des fonctions du module builtins.
 
-## Table des mots clefs avec description
+## :+1::tada: Table des mots clefs avec description :tada::+1:
 
 <table style="margin:0.5em auto 0.5em auto; border-collapse:collapse; padding:0.5em;">
 <tbody>
@@ -145,7 +145,7 @@
   </tbody>
 </table>
 
-## Les Fonctions Usuelles
+## :penguin: :fire: :art: Les Fonctions Usuelles :art: :fire: :penguin:
 
 <table style="margin:0.5em auto 0.5em auto; border-collapse:collapse; padding:0.5em;">
 <tbody><tr>
