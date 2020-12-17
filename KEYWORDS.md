@@ -34,80 +34,82 @@
   </tr>
   <tr>
     <td>as</td>
+    <td>mot clef pour les alias</td>
+  </tr>
+  <tr>
+    <td>assert</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>break</td>
+    <td>Sortie de boucle</td>
+  </tr>
+  <tr>
+    <td>class</td>
+    <td>
+      Définition de classe d'objet (<a href="https://fr.wikipedia.org/wiki/POO" class="extiw" title="w:POO" target="_blank"> Programmation Orientée Objet</a>
+    </td>
+  </tr>
+  <tr>
+    <td>continue</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>def</td>
+    <td>Définition de fonction</td>
+  </tr>
+  <tr>
+    <td>del</td>
+    <td>Suppression de</td>
+  </tr>
+  <tr>
+    <td>elif</td>
+    <td>Condition contraire</td>
+  </tr>
+  <tr>
+    <td>else</td>
+    <td>Contraire</td>
+  </tr>
+  <tr>
+    <td>except</td>
+    <td>Sauf (à utiliser après "try")</td>
+  </tr>
+  <tr>
+    <td>exec</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>finally</td>
     <td></td>
   </tr>
 <tr>
-<td>assert</td>
-<td>
-</td></tr>
-<tr>
-<td>break</td>
-<td>Sortie de boucle
-</td></tr>
-<tr>
-<td>class</td>
-<td>Définition de classe d'objet (<a href="https://fr.wikipedia.org/wiki/POO" class="extiw" title="w:POO" target="_blank"> Programmation Orientée Objet</a>)
-</td></tr>
-<tr>
-<td>continue</td>
-<td>
-</td></tr>
-<tr>
-<td>def</td>
-<td>Définition de fonction
-</td></tr>
-<tr>
-<td>del</td>
-<td>Suppression de
-</td></tr>
-<tr>
-<td>elif</td>
-<td>Condition contraire
-</td></tr>
-<tr>
-<td>else</td>
-<td>Contraire
-</td></tr>
-<tr>
-<td>except</td>
-<td>Sauf (à utiliser après "try")
-</td></tr>
-<tr>
-<td>exec</td>
-<td>
-</td></tr>
-<tr>
-<td>finally</td>
-<td>
-</td></tr>
-<tr>
-<td>for</td>
-<td>Boucle
-</td></tr>
-<tr>
-<td>from</td>
-<td>De
-</td></tr>
-<tr>
-<td>global</td>
-<td>Définition (ou utilisation) dans une fonction d'une variable globale
-</td></tr>
-<tr>
-<td>if</td>
-<td>Condition
-</td></tr>
-<tr>
-<td>import</td>
-<td>Importation de module
-</td></tr>
-<tr>
-<td>in</td>
-<td>Contient
-</td></tr>
-<tr>
-<td>is</td>
-<td>Est
-</td></tr>
+  <td>for</td>
+  <td>Boucle</td>
+  </tr>
+  <tr>
+    <td>from</td>
+    <td>De</td>
+  </tr>
+  <tr>
+    <td>global</td>
+    <td>Définition (ou utilisation) dans une fonction d'une variable globale</td>
+  </tr>
+  <tr>
+    <td>if</td>
+    <td>Condition</td>
+  </tr>
+  <tr>
+    <td>import</td>
+    <td>Importation de module</td>
+  </tr>
+  <tr>
+    <td>in</td>
+    <td>Contient</td>
+  </tr>
+  <tr>
+    <td>is</td>
+    <td>Est</td>
+  </tr>
 <tr>
 <td>is not</td>
 <td>N'est pas
@@ -153,6 +155,8 @@
 <td>Boucle
 </td></tr>
 <tr>
-<td>yield</td>
-<td>S'emploie uniquement dans une fonction, et renvoie son résultat régénéré
-</td></tr></tbody></table>
+  <td>yield</td>
+  <td>S'emploie uniquement dans une fonction, et renvoie son résultat régénéré</td>
+  </tr>
+</tbody>
+</table>
