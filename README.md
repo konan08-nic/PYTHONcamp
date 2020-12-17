@@ -1,4 +1,4 @@
-# Python Boot Camp
+# :sparkles: :boom: :heart_eyes: Python Boot Camp :heart_eyes: :boom: :sparkles:
 
 ![Table des Mots Cles en Python](https://github.com/konan08-nic/pythoncamp/blob/main/assets/py-mots-cles.png)
 
