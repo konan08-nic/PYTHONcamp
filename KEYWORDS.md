@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>continue</td>
-    <td></td>
+    <td>Countiuer ou reprendre la boucle sans executer le reste du code</td>
   </tr>
   <tr>
     <td>def</td>
@@ -60,11 +60,11 @@
   </tr>
   <tr>
     <td>exec</td>
-    <td></td>
+    <td>exécuter</td>
   </tr>
   <tr>
     <td>finally</td>
-    <td></td>
+    <td>fillanlement, permet d'exécuter un bloque de code en cas d'exception</td>
   </tr>
 <tr>
   <td>for</td>
@@ -120,11 +120,11 @@
   </tr>
   <tr>
     <td>raise</td>
-    <td></td>
+    <td>Permet de lancer une exception</td>
   </tr>
   <tr>
     <td>return</td>
-    <td>Stopper la fonction courante (renvoyer sa valeur)</td>
+    <td>Stopper la fonction courante ( et renvoyer sa valeur)</td>
   </tr>
   <tr>
     <td>sort</td>
