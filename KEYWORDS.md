@@ -1,21 +1,5 @@
 # La liste des mots clés pour le langage Python v3.X
 
-`and`    `del`   `from`   `None`  `True`
-
-`as`      `elif`  `global`  `nonlocal`  `try`
-
-`assert`  `else`  `if`  `not`  `while`
-
-`break`  `except` `import`  `or`  `with`
-
-`class`  `false`  `in`  `pass`     `yield`
-
-`continue`  `finally`  `is`  `raise`  `def`
-
-`for`  `lambda`  `return`
-
-# Mots clés avec des fonctions du module builtins
-
 ![Table des Mots Cles en Python](https://github.com/konan08-nic/pythoncamp/blob/main/assets/py-mots-cles.png)
 
 > **Note**: Les mots avec **'*'** ne sont plus des mots-clés en Python 3 mais des fonctions du module builtins.
@@ -47,7 +31,7 @@
   <tr>
     <td>class</td>
     <td>
-      Définition de classe d'objet (<a href="https://fr.wikipedia.org/wiki/POO" class="extiw" title="w:POO" target="_blank"> Programmation Orientée Objet</a>
+      Définition de classe d'objet (<a href="https://fr.wikipedia.org/wiki/POO" class="extiw" title="w:POO" target="_blank"> Programmation Orientée Objet</a>)
     </td>
   </tr>
   <tr>
@@ -110,53 +94,53 @@
     <td>is</td>
     <td>Est</td>
   </tr>
-<tr>
-<td>is not</td>
-<td>N'est pas
-</td></tr>
-<tr>
-<td>lambda</td>
-<td>Définition d'une fonction Lambda
-</td></tr>
-<tr>
-<td>not</td>
-<td>Négation logique
-</td></tr>
-<tr>
-<td>or</td>
-<td>Opérateur de choix OU booléen logique
-</td></tr>
-<tr>
-<td>pass</td>
-<td>
-</td></tr>
-<tr>
-<td>print</td>
-<td>Afficher
-</td></tr>
-<tr>
-<td>raise</td>
-<td>
-</td></tr>
-<tr>
-<td>return</td>
-<td>Stopper la fonction courante (renvoyer sa valeur)
-</td></tr>
-<tr>
-<td>sort</td>
-<td>Classer par ordre alphabétique
-</td></tr>
-<tr>
-<td>try</td>
-<td>Essayer (généralement suivi de "except"&nbsp;: sauf)
-</td></tr>
-<tr>
-<td>while</td>
-<td>Boucle
-</td></tr>
-<tr>
-  <td>yield</td>
-  <td>S'emploie uniquement dans une fonction, et renvoie son résultat régénéré</td>
+  <tr>
+    <td>is not</td>
+    <td>N'est pas</td>
   </tr>
-</tbody>
+  <tr>
+    <td>lambda</td>
+    <td>Définition d'une fonction Lambda</td>
+  </tr>
+  <tr>
+    <td>not</td>
+    <td>Négation logique</td>
+  </tr>
+  <tr>
+    <td>or</td>
+    <td>Opérateur de choix OU booléen logique</td>
+  </tr>
+  <tr>
+    <td>pass</td>
+    <td>passer ou sauter un block de code</td>
+  </tr>
+  <tr>
+    <td>print</td>
+    <td>Afficher</td>
+  </tr>
+  <tr>
+    <td>raise</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>return</td>
+    <td>Stopper la fonction courante (renvoyer sa valeur)</td>
+  </tr>
+  <tr>
+    <td>sort</td>
+    <td>Classer par ordre alphabétique</td>
+  </tr>
+  <tr>
+    <td>try</td>
+    <td>Essayer (généralement suivi de "except"&nbsp;: sauf)</td>
+  </tr>
+  <tr>
+    <td>while</td>
+    <td>Boucle</td>
+  </tr>
+  <tr>
+    <td>yield</td>
+    <td>S'emploie uniquement dans une fonction, et renvoie son résultat régénéré</td>
+  </tr>
+  </tbody>
 </table>
