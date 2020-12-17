@@ -1,7 +1,5 @@
 # Python Boot Camp
 
-## La liste des mots clés pour le langage Python v3.X
-
 ![Table des Mots Cles en Python](https://github.com/konan08-nic/pythoncamp/blob/main/assets/py-mots-cles.png)
 
 > **Note**: Les mots avec **'*'** ne sont plus des mots-clés en Python 3 mais des fonctions du module builtins.
