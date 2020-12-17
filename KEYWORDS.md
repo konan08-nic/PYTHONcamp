@@ -144,3 +144,95 @@
   </tr>
   </tbody>
 </table>
+
+# Les Fonctions Usuelles
+
+<table style="margin:0.5em auto 0.5em auto; border-collapse:collapse; padding:0.5em;">
+<tbody><tr>
+<th>Commande
+</th>
+<th>Définition
+</th></tr>
+<tr>
+<td>help()</td>
+<td>Affiche l'aide sur le paramètre
+</td></tr>
+<tr>
+<td>dir()</td>
+<td>Affiche les méthodes du paramètre
+</td></tr>
+<tr>
+<td>print()</td>
+<td>Affiche le texte en paramètre
+</td></tr>
+<tr>
+<td>input()</td>
+<td>Enregistre la saisie de l'utilisateur
+</td></tr>
+<tr>
+<td>raw_input()</td>
+<td>Équivalent à input() (sous Python 3, préférer input())
+</td></tr>
+<tr>
+<td>len()</td>
+<td>Renvoie la taille du paramètre
+</td></tr>
+<tr>
+<td>range()</td>
+<td>Affiche la liste des entiers de l'intervalle du paramètre
+</td></tr>
+<tr>
+<td>ord()</td>
+<td>Renvoie l'ordinal associé au caractère en paramètre
+</td></tr>
+<tr>
+<td>locals()</td>
+<td>Créer un dictionnaire (objet "dict"), dont le contenu est accessible avec "[]"
+</td></tr>
+<tr>
+<td>globals()</td>
+<td>Comme locals() mais en incluant les variables globales
+</td></tr>
+<tr>
+<td>str()</td>
+<td>Convertit une variable en caractères
+</td></tr>
+<tr>
+<td>int()</td>
+<td>Convertit une variable en nombre entier
+</td></tr>
+<tr>
+<th colspan="2">Fichiers
+</th></tr>
+<tr>
+<td>open()</td>
+<td>Ouvrir un fichier
+</td></tr>
+<tr>
+<td>close()</td>
+<td>Fermer un fichier
+</td></tr>
+<tr>
+<td>read()</td>
+<td>Lire un fichier
+</td></tr>
+<tr>
+<td>readline()</td>
+<td>Lire une ligne
+</td></tr>
+<tr>
+<td>readlines()</td>
+<td>Lire les lignes séparées par des "\n,"
+</td></tr>
+<tr>
+<td>tell()</td>
+<td>Donne la position d'un objet
+</td></tr>
+<tr>
+<td>seek()</td>
+<td>Donne la position d'un objet
+</td></tr>
+<tr>
+<td>write()</td>
+<td>Écrire dans un fichier
+</td></tr></tbody></table>
