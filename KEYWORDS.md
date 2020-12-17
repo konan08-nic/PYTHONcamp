@@ -18,4 +18,4 @@
 
 ![Table des Mots Cles en Python](https://github.com/konan08-nic/pythoncamp/blob/main/assets/py-mots-cles.png)
 
-* Ne sont plus des mots-clés en Python 3 mais des fonctions du module builtins.
+> **Note**: Les mots avec **'*'** ne sont plus des mots-clés en Python 3 mais des fonctions du module builtins.
