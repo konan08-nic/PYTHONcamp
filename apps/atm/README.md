@@ -36,6 +36,12 @@ BAN: numéro de compte bancaire
 ```
 Il n'a pas plus de 30 positions. Chaque pays a la responsabilité de définir le format de son BBAN.
 
+### Examples
+
+- Cote d'Ivoire (24 caractères) Format: BBBBBGGGGGCCCCCCCCCCCCKK
+
+  **B** = code banque (5 chiffres), **G** = code guichet (5 chiffres), **C** = numéro de compte (12 chiffres et/ou lettres), K = clé RIB (2 chiffres entre 01 et 97)
+
 ## La Compostion de l'IBAN
 
 L'International Bank Account Number (IBAN), généralement nommé sous l'acronyme **IBAN**, est un système international de numérotation de comptes bancaires.
