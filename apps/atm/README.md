@@ -79,8 +79,15 @@ En Côte d'Ivoire exemples d'IBAN (28 caractères):
 
 **CI50 B0015-27654-363111793063-80**
 
-# Fonctionnalités 
+# Fonctionnalités
 
+Le programme a les fonctionnalités suivantes:
+
+- Permettre au client d'ouvrir un compte 
+- Authentifier le client avec son numéro de clientèle de 12 chiffres et un mot de passe
+- Afficher toutes les infos du client (nom, prénoms, BBN, IBAN, montant, etc.)
+- Permettre au client de retirer de l'argent 
+- Permettre au client de faire un dépôt 
 
 # Interface en Ligne de Command (CLI)
 
