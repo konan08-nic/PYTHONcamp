@@ -1,7 +1,8 @@
 # PyATM: Simulateur de Guichet Automatique 
 
-> Un simple programme informatique en langage Python pour simuler un guichet automatique.
+Un simple programme informatique en langage Python pour simuler un guichet automatique.
 
+# Généralité 
 
 Le programme lorsqu'il est exécuté, affiche le montant du compte en XOF (CFA), en USD dollar Americain et en EURO 
 avec les informations relatives au client.
@@ -78,5 +79,8 @@ En Côte d'Ivoire exemples d'IBAN (28 caractères):
 
 **CI50 B0015-27654-363111793063-80**
 
-## Interface en ligne de command du programme
+# Fonctionnalités 
+
+
+# Interface en Ligne de Command (CLI)
 
