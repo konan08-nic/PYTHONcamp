@@ -38,11 +38,11 @@ Il n'a pas plus de 30 positions. Chaque pays a la responsabilité de définir le
 
 ### Exemple
 
-- Cote d'Ivoire (24 caractères) Format: BBBBBGGGGGCCCCCCCCCCCCKK
+- Côte d'Ivoire (24 caractères) Format: BBBBBGGGGGCCCCCCCCCCCCKK
 
   **B** = code banque (5 chiffres), **G** = code guichet (5 chiffres), **C** = numéro de compte (12 chiffres et/ou lettres), K = clé RIB (2 chiffres entre 01 et 97)
 
-Un exemple de BBAN en CI serait: **AC152-76543-631117930638-04**
+Un exemple de BBAN en Côte d'Ivoire serait: **AC152-76543-631117930638-04**
 
 ## La Compostion de l'IBAN
 
@@ -62,7 +62,7 @@ L'International Bank Account Number (IBAN), généralement nommé sous l'acronym
 </table>
 
 ```markdown 
-CP: Code du Pays (ex: CI, FR, US, TR, PR, etc.)
+CP: Code ISO du Pays (ex: CI, FR, US, TR, PR, etc.)
 CC: Clef de Controle (de 02 à 98)
 BBAN: Basic Bank Account Number (c'est l'équivalent du Numero de Compte ou RIB)
 ```
@@ -73,7 +73,10 @@ La longueur d'un IBAN est fixe dans chaque pays avec au moins 14 caractères et 
 En Côte d'Ivoire exemples d'IBAN (28 caractères):
 
 **CI90 A0152-76543-631117930638-04**
+
 **CI93 BI008-01113-011342912005-89**
+
+**CI50 B0015-27654-363111793063-80**
 
 ## Interface en ligne de command du programme
 
