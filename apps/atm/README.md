@@ -10,11 +10,35 @@ Les détails du client sont:
 
 - Nom et Prenom(s)
 - Numero de clientèle de 12 chiffres (ex: 444-006-334-895)
-- [Numero de compte ou Relevé d’Identité Bancaire (RIB)](https://fr.wikipedia.org/wiki/Basic_Bank_Account_Number)[1]
-- [Numero IBAN (International Bank Account Number)](https://fr.wikipedia.org/wiki/International_Bank_Account_Number)[2]
+- [Numero de compte, Basic Bank Account Number (BBAN) ou Relevé d’Identité Bancaire (RIB)](https://fr.wikipedia.org/wiki/Basic_Bank_Account_Number)
+- [Numero IBAN (International Bank Account Number)](https://fr.wikipedia.org/wiki/International_Bank_Account_Number)
 - Type de compte (compte courant, épargne ou à terme)
 
-## La compostion du IBAN
+## La Compostion de l'RIB ou BBAN
+
+Le **BBAN** ou **IRB** est une subdivision locale de l'**IBAN** délivré par la banque et que l'on remet à un débiteur ou un créancier dans le but d'opérer des virements bancaires ou des prélèvements bancaires à partir d'un compte courant.
+
+<table>
+  <tr>
+    <td>3 à 12 positions</td> 
+    <td>8 à 20 positions</td>
+  </tr>
+  <tr>
+    <td>IID</td>
+    <td>BAN</td>
+  </tr>
+</table>
+
+
+```markdown
+IID: identification de l’établissement financier
+BAN: numéro de compte bancaire
+```
+Il n'a pas plus de 30 positions. Chaque pays a la responsabilité de définir le format de son BBAN.
+
+## La Compostion de l'IBAN
+
+L'International Bank Account Number (IBAN), généralement nommé sous l'acronyme **IBAN**, est un système international de numérotation de comptes bancaires.
 
 <table>
   <tr>
@@ -29,12 +53,11 @@ Les détails du client sont:
   </tr>
 </table>
 
-> **CP**: Code du Pays
-
-> **CC**: Clef de Controle
-
-> **BBAN**: Basic Bank Account Number (c'est l'équivalent du Numero de Compte ou RIB)
-
+```markdown 
+CP: Code du Pays (ex: CI, FR, US, TR, PR, etc.)
+CC: Clef de Controle (de 02 à 98)
+BBAN: Basic Bank Account Number (c'est l'équivalent du Numero de Compte ou RIB)
+```
 La longueur d'un IBAN est fixe dans chaque pays avec au moins 14 caractères et un maximum de 34 caractères.
 
 ## Interface en ligne de command du programme
