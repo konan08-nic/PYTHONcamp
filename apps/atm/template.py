@@ -41,7 +41,7 @@ liste_clients = [["Alassane Dramane","OUATTARA","2101-0200-0100","Q2256-31793-AO
 client_id = None
 
 
-# Définitions des fonctions
+# Définitions des fonctions prédéfinies ou importantes
 
 # Authentifie le client
 def auth(clientNO, clientPass):
@@ -62,6 +62,17 @@ def retrait(montant):
 # Termine la session et quitte le programme
 def fin():
   pass
+
+# Autre definitions de fonctions secondaires ou personnalisées
+
+# Il est permis de définir ses propres fonctions 
+# dans cette section du programme.
+
+# Cette function teste le programme. 
+# Peut être simplement ignorée.
+def test():
+  pass
+
 
 ### ZONE IMPORTANTE ###
 
