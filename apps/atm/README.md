@@ -83,11 +83,48 @@ En Côte d'Ivoire exemples d'IBAN (28 caractères):
 
 Le programme a les fonctionnalités suivantes:
 
-- Permettre au client d'ouvrir un compte 
+- Par défaut, définir 10 clients avec leur infos dans des tableaux ou listes
 - Authentifier le client avec son numéro de clientèle de 12 chiffres et un mot de passe
 - Afficher toutes les infos du client (nom, prénoms, BBN, IBAN, montant, etc.)
 - Permettre au client de retirer de l'argent 
-- Permettre au client de faire un dépôt 
+- Permettre au client de faire un dépôt
+- Transférer de l'argent vers un autre compte 
 
 # Interface en Ligne de Command (CLI)
+
+Voici comment l'interface de base du programme doit être.
+Ci-dessous se trouve un cas d'utilisation où le client est
+authentifié avec succès et ensuite termine la session.
+
+```
+NetBank ATM
+=========== 
+
+Entrez votre numéro de clientèle: 2343-5675-6788
+Entrez votre mot de passe: **************
+
+Authentification réussie!
+Bienvenue à NetBank ATM
+
+Info Client
+-----------
+
+Prénom: John
+Nom: Doe
+Client NO: 234356756788
+BBAN: B00152765436311179306380
+IBAN: CI93B00152765436311179306380
+Compte: 1578,678 USD
+Type: Découvert/Courant 
+
+Options
+-------
+0. Quitter
+1. Dépôt
+2. Retrait 
+3. Transfert
+
+Entrez votre choix [0-3]: 0
+Bye, session terminé. A bientôt!
+```
 
