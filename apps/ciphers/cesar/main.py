@@ -16,16 +16,17 @@ def encode(message, key):
   pass
 
 # Fonction pour dechiffer à implémenter
-def decode(message, key):
+def decode(code, key):
   pass
 
 
 
 ####################### NE RIEN CHANGER ICI ################################
 
-def test(m):
-    print(encode(m, KEY))
-    print(decode(m, KEY))
+def test(message):
+    code = encode(message, KEY)
+    print('chiffré:', code)
+    print('clair:',decode(code, KEY))
 
 test("HELLO", KEY)
 
