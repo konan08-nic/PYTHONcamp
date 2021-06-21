@@ -25,8 +25,9 @@ def decode(code, key):
 
 def test(message):
     code = encode(message, KEY)
-    print('chiffré:', code)
-    print('clair:',decode(code, KEY))
+    print('clef de chiffrement:', KEY)
+    print('message chiffré:', code)
+    print('message en clair:',decode(code, KEY))
 
 test("HELLO", KEY)
 
