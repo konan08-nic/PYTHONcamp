@@ -6,7 +6,7 @@ KEY = 4
 # Fonction pour trouver la position des lettres de l'alphabet
 def getIndex(letter):
     for i in range(len(ALPHABET)):
-        if uppercase(letter) == ALPHABET[i]:
+        if letter.upper() == ALPHABET[i]:
             return i
 ####################### NE RIEN CHANGER ICI ################################
 
