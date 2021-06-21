@@ -31,4 +31,10 @@ def test(message):
 
 test("HELLO", KEY)
 
+# Resultat du test:
+
+# clef de chiffrement: 4
+# chiffré: LIPPS
+# clair: HELLO
+
 ####################### NE RIEN CHANGER ICI ################################
